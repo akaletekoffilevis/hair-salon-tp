@@ -163,7 +163,7 @@ legend {
 }
 
 label {
-    display: none;
+    display: block;
 }
 
 form button {
